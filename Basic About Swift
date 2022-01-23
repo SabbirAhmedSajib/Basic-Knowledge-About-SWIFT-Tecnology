@@ -1,0 +1,35 @@
+SWIFT Documentation
+ 	What is Swift?
+Swift: Swift means Society for Worldwide Interbank Financial Telecommunication (SWIFT). The Society for Worldwide Interbank Financial Telecommunication (SWIFT) is an electronic payment messaging system used by banks and financial institutions worldwide. Considered the gold standard for reliability and security in financial transactions. SWIFT does not actually perform electronic funds transfers; rather, it serves as the messaging system that enables a worldwide network of financial institutions to exchange funds.
+
+ 	What is the history of SWIFT?
+Before SWIFT, financial institutions relied on a World War II-era data transmission system called Telex (Teleprinter Exchange) to communicate internationally. Telex was the first long-distance data transmission method ever created. While it worked for World War II and the following decades, Telex was slow, relatively unsecure, and didn’t have a unified system of codes — leading to countless user errors as receivers misinterpreted the sender’s intent. The banks formed a cooperative utility called the “Society for Worldwide Interbank Financial Telecommunication” and went live with the SWIFT messaging service in 1977. With over 10 million messages recorded in its first year, SWIFT proved to be a disruptive technology that quickly replaced the more manual Telex system.
+
+
+ 	Who uses SWIFT?
+SWIFT currently provides services to many different types of financial institutions, including (but not limited to): 
+•	Banks
+•	Exchanges
+•	Depositories
+•	Brokerages
+•	Asset management organizations
+•	Currency exchanges
+•	Securities dealers
+•	Corporate treasuries
+
+
+
+
+
+
+ 	What is a SWIFT code?
+SWIFT codes are sequences of numbers and letters that SWIFT uses to identify financial institutions. Each financial institution has a unique 8 to 11-character code, which is also referred to as its bank identifier code (BIC) or ISO 9362 code. Each SWIFT code is determined by several pre-set codes based on the financial institution’s information. SWIFT codes are made up of:
+•	The institution code (4 characters)
+•	The country code (2 characters)
+•	Location code (2 characters)
+•	Individual branch code (3 characters, used only when needed to identify a branch within the location)
+
+ 	How do SWIFT payments work?
+Example:
+
+ 
